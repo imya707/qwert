@@ -1,0 +1,8 @@
+C:\Users\stud.R213-08\Documents\344\Савастин\GladiatorBattle\GladiatorBattle\obj\Debug\GladiatorBattle.csproj.AssemblyReference.cache
+C:\Users\stud.R213-08\Documents\344\Савастин\GladiatorBattle\GladiatorBattle\obj\Debug\GladiatorBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud.R213-08\Documents\344\Савастин\GladiatorBattle\GladiatorBattle\obj\Debug\GladiatorBattle.csproj.CoreCompileInputs.cache
+C:\Users\stud.R213-08\Documents\344\Савастин\GladiatorBattle\GladiatorBattle\bin\Debug\GladiatorBattle.exe.config
+C:\Users\stud.R213-08\Documents\344\Савастин\GladiatorBattle\GladiatorBattle\bin\Debug\GladiatorBattle.exe
+C:\Users\stud.R213-08\Documents\344\Савастин\GladiatorBattle\GladiatorBattle\bin\Debug\GladiatorBattle.pdb
+C:\Users\stud.R213-08\Documents\344\Савастин\GladiatorBattle\GladiatorBattle\obj\Debug\GladiatorBattle.exe
+C:\Users\stud.R213-08\Documents\344\Савастин\GladiatorBattle\GladiatorBattle\obj\Debug\GladiatorBattle.pdb
